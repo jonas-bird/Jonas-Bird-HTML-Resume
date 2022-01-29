@@ -22,7 +22,7 @@ sidebar:
     # bitbucket:
     # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: jonas-bird
     # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
@@ -30,20 +30,16 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+  
 
     interests:
-      - item: Climbing
+      - item: History
         link:
 
-      - item: Snowboarding
+      - item: Natural Language Processing
         link:
 
-      - item: Cooking
+      - item: Electronics
         link:
 
 career-profile:
