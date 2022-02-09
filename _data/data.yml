@@ -12,8 +12,8 @@ sidebar:
     avatar: 
     # Sidebar links
     email: jonas.bird.m@gmail.com
-    #phone:
-    #website:  #do not add http://
+    # phone:
+    # website:  #do not add http://
     linkedin: jonasbird719
     # xing: alandoe
     github: jonas-bird
@@ -21,8 +21,8 @@ sidebar:
     # gitlab:
     # bitbucket:
     # twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars: jonas-bird
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars: jonas-bird
     # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
@@ -80,11 +80,11 @@ career-profile:
           - HTML
           - CSS
 
-     - degree: Courses in Electronics and CS
+    - degree: Courses in Electronics and CS
       university: Community College of Allegheny County
       details: |
 
-     - degree: Coursework
+    - degree: Coursework
       university: Carnegie Mellon University
       time: 2000
       details: |
@@ -210,22 +210,22 @@ skills:
 
     toolset:
       - name: Python
-#        level: 98%
+        level: 98%
 
       - name: Javascript
- #       level: 98%
+        level: 98%
 
       - name: Puppet
-  #      level: 98%
+        level: 98%
 
       - name: HTML5 & CSS
-   #     level: 95%
+        level: 95%
 
       - name: Networking
- #       level: 85%
+        level: 85%
 
       - name: Technical Support
-#        level: 60%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
