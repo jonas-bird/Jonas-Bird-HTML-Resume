@@ -52,11 +52,11 @@ education:
       university: Coursera
       time: 2021
       details: |
-        Completed 6 Course series covering
+        Completed 6 course series covering
           - Python
-          - Shell Scripting
+          - Shell scripting
           - Configuration management
-          - Cloud Computing
+          - Cloud computing
           - Automation
     - degree: Google IT Support Professional
       university: Coursera
@@ -67,9 +67,9 @@ education:
           - Trouble shooting and debugging
           - Security
           - Networking
-          - Operating Systems
-          - System Administration
-          - IT Infrastructure
+          - Operating systems
+          - System administration
+          - IT infrastructure
     - degree: Intro to Programming for Accenture
       university: Udacity
       time: 2022
@@ -199,22 +199,22 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        # level: 100%
 
       - name: Javascript
-        level: 98%
+        # level: 100%
 
       - name: Puppet
-        level: 98%
+        # level: 100%
 
       - name: HTML5 & CSS
-        level: 95%
+        # level: 100%
 
       - name: Networking
-        level: 85%
+        # level: 100%
 
       - name: Technical Support
-        level: 60%
+        # level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
