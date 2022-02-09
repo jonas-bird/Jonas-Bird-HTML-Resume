@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jonas Bird
@@ -12,8 +12,8 @@ sidebar:
     avatar: 
     # Sidebar links
     email: jonas.bird.m@gmail.com
-    phone: 
-    website:  #do not add http://
+    #phone:
+    #website:  #do not add http://
     linkedin: jonasbird719
     # xing: alandoe
     github: jonas-bird
@@ -21,8 +21,8 @@ sidebar:
     # gitlab:
     # bitbucket:
     # twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: jonas-bird
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars: jonas-bird
     # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
@@ -45,143 +45,187 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      Tech support specialist and project/program manager. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions. Received Google IT Support Professional Certificate in Sept. 2020, covering troubleshooting, networking, operating systems, systems administration, and security, and Google IT Automation with Python in Dec. 2021, covering cloud and automation technologies. Currently looking for new career opportunities while sharpening my coding skills.
+
+     education:
+    - degree: Google IT Automation with Python Certification
+      university: Coursera
+      time: 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Completed 6 Course series covering
+          - Python
+          - Shell Scripting
+          - Configuration management
+          - Cloud Computing
+          - Automation
+
+    - degree: Google IT Support Professional
+      university: Coursera
+      time: 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Completed certification covering:
+          - End-to-end customer support
+          - Trouble shooting and debugging
+          - Security
+          - Networking
+          - Operating Systems
+          - System Administration
+          - IT Infrastructure
+
+    - degree: Intro to Programming for Accenture
+      university: Udacity
+      time: 2022
+      details: |
+        Completed certification covering:
+          - HTML
+          - CSS
+
+     - degree: Courses in Electronics and CS
+      university: Community College of Allegheny County
+      details: |
+
+     - degree: Coursework
+      university: Carnegie Mellon University
+      time: 2000
+      details: |
+        Courses in Logic and Computation
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Tech Support Consultant
+      time: 2018 - Present
+      company: Various clients
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Repaired and configured computer systems and small networks as well as performed consumer A/V installations.
+        Provided support for:
+          - OSX
+          - Windows 7/10
+          - iOS
+          - Android
+
+    - role: Customer Support Manager
+      time: 2016 - 2018
+      company: Gamble Hollow Farm, WV
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Worked with regional clients to deliver local organic produce in a responsive, efficient manner matching their business needs.
+        Managed technical infrastructure, farm inventory, and supplier relationships. Developed / executed plans and performed equipment maintenance to maximize uptime during growing and harvest seasons.
+
+    - role: Systems Analyst &amp E-Commerce Manager
+      time: 2012 - 2016
+      company: KLAWTEX, NY
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        • Managed all information systems and security. Provided 360-degree technical support and managed upgrades and improvements to the KLAWTEX website/e-commerce system, increasing uptime by over 400%, sales by 40%, and page views by more than 300% per year.
+        • Directed back-end development and production for launch of new web store/e-commerce system. Managed interactive team to build apparel taxonomies and web database spanning hundreds of items variations. Supervised and maintained apparel database via Drupal CMS.
+        • Managed customer orders, inventory, supplies, and vendors. Assisted fashion designers, editors, and stylists at Vogue, Elle, and Interview Magazine with couture inquiries and rentals. Developed and implemented a new rental tracking system.
+        • Interviewed candidates for full-time and internship positions Provided orientation, technical setup, and web shop training for new hires.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Tech Support Consultant
+      time: 2009 - 2012
+      company: University of Pittsburgh / Pancoast Staffing, Pittsburgh PA
+      details: |
+        - Software Tester & Database Administrator — U. of Pittsburgh Medical Center
+        - Electronics & Quality Control Technician — ElectroGrip
+        - Community Technology Education Assistant — Edgewood Borough Council
+        - Technical Support Specialist — Office of the Mayor of Edgewood, PA
+        - Technical Coordinator of Client Services — Chemistry Interactive
+        - Technical Support & Hardware Rollout Assistant — Art Institute of Pittsburgh
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - role: Lead Electronics Technician
+      time: 2006 - 2009
+      company: Bill Dixon TV, Verona PA
+      details: |
+        • Performed component-level electronics repairs in-house and on location. Led warranty repairs and customer support for Sony, Panasonic, and RCA.
+        • Managed in-house systems administration, customer accounts, and shop procedures. Trained line employees in electronics repair and company policies.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - role: Technology Support Specialist &amp Education Manager
+      time: 2004 - 2006
+      company: Y.M.C.A of Pittsburgh, Pittsburgh PA
+      details: |
+        • Assistant manager of Y-Tech community technology program. Taught courses on ICDL certification exam prep, tech fundamentals, and basic computer skills.
+        • Managed Windows and Linux system installation and disk imaging. Upgraded government-surplus computers for community use.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - role: Sound and Electronics Technician
+      time: 2003 - 2004
+      company: The Eye Concert Venue and Lounge, Pittsburgh PA
+      details: |
+        • Managed technical support, sound, audiovisual equipment, and electronics displays for art shows and concerts.
+        • Managed ticketing system, rolled out a new customer tracking database, and oversaw customer-facing staff at art shows, concerts, and in daily work
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    - role: Customer Support Technician
+      time: 2003 - 2004
+      company: Public Interest Communications, Pittsburgh PA
+      details: |
+        • Raised funds for non-profit organizations (e.g. Metropolitan Opera, Habitat for Humanity, World Wildlife Fund), managed customer records in UNIX system, and provided account customer service.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+ #     - title: A syntax directed compiler for Algol 60
+ #       link: "#"
+ #       authors: Edgar T. Irons
+ #       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+#        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+ #       level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Puppet
+  #      level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+   #     level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Networking
+ #       level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Technical Support
+#        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
