@@ -47,7 +47,7 @@ career-profile:
     summary: |
       Tech support specialist and project/program manager. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions. Received Google IT Support Professional Certificate in Sept. 2020, covering troubleshooting, networking, operating systems, systems administration, and security, and Google IT Automation with Python in Dec. 2021, covering cloud and automation technologies. Currently looking for new career opportunities while sharpening my coding skills.
 
-     education:
+education:
     - degree: Google IT Automation with Python Certification
       university: Coursera
       time: 2021
@@ -58,7 +58,6 @@ career-profile:
           - Configuration management
           - Cloud Computing
           - Automation
-
     - degree: Google IT Support Professional
       university: Coursera
       time: 2020
@@ -71,7 +70,6 @@ career-profile:
           - Operating Systems
           - System Administration
           - IT Infrastructure
-
     - degree: Intro to Programming for Accenture
       university: Udacity
       time: 2022
@@ -79,11 +77,9 @@ career-profile:
         Completed certification covering:
           - HTML
           - CSS
-
     - degree: Courses in Electronics and CS
       university: Community College of Allegheny County
       details: |
-
     - degree: Coursework
       university: Carnegie Mellon University
       time: 2000
@@ -101,14 +97,12 @@ experiences:
           - Windows 7/10
           - iOS
           - Android
-
     - role: Customer Support Manager
       time: 2016 - 2018
       company: Gamble Hollow Farm, WV
       details: |
         Worked with regional clients to deliver local organic produce in a responsive, efficient manner matching their business needs.
         Managed technical infrastructure, farm inventory, and supplier relationships. Developed / executed plans and performed equipment maintenance to maximize uptime during growing and harvest seasons.
-
     - role: Systems Analyst &amp E-Commerce Manager
       time: 2012 - 2016
       company: KLAWTEX, NY
@@ -117,7 +111,6 @@ experiences:
         • Directed back-end development and production for launch of new web store/e-commerce system. Managed interactive team to build apparel taxonomies and web database spanning hundreds of items variations. Supervised and maintained apparel database via Drupal CMS.
         • Managed customer orders, inventory, supplies, and vendors. Assisted fashion designers, editors, and stylists at Vogue, Elle, and Interview Magazine with couture inquiries and rentals. Developed and implemented a new rental tracking system.
         • Interviewed candidates for full-time and internship positions Provided orientation, technical setup, and web shop training for new hires.
-
     - role: Tech Support Consultant
       time: 2009 - 2012
       company: University of Pittsburgh / Pancoast Staffing, Pittsburgh PA
@@ -128,35 +121,31 @@ experiences:
         - Technical Support Specialist — Office of the Mayor of Edgewood, PA
         - Technical Coordinator of Client Services — Chemistry Interactive
         - Technical Support & Hardware Rollout Assistant — Art Institute of Pittsburgh
-
     - role: Lead Electronics Technician
       time: 2006 - 2009
       company: Bill Dixon TV, Verona PA
       details: |
         • Performed component-level electronics repairs in-house and on location. Led warranty repairs and customer support for Sony, Panasonic, and RCA.
         • Managed in-house systems administration, customer accounts, and shop procedures. Trained line employees in electronics repair and company policies.
-
     - role: Technology Support Specialist &amp Education Manager
       time: 2004 - 2006
       company: Y.M.C.A of Pittsburgh, Pittsburgh PA
       details: |
         • Assistant manager of Y-Tech community technology program. Taught courses on ICDL certification exam prep, tech fundamentals, and basic computer skills.
         • Managed Windows and Linux system installation and disk imaging. Upgraded government-surplus computers for community use.
-
     - role: Sound and Electronics Technician
       time: 2003 - 2004
       company: The Eye Concert Venue and Lounge, Pittsburgh PA
       details: |
         • Managed technical support, sound, audiovisual equipment, and electronics displays for art shows and concerts.
         • Managed ticketing system, rolled out a new customer tracking database, and oversaw customer-facing staff at art shows, concerts, and in daily work
-
     - role: Customer Support Technician
       time: 2003 - 2004
       company: Public Interest Communications, Pittsburgh PA
       details: |
         • Raised funds for non-profit organizations (e.g. Metropolitan Opera, Habitat for Humanity, World Wildlife Fund), managed customer records in UNIX system, and provided account customer service.
 
-#projects:
+projects:
 #    title: Projects
 #    intro: >
 #      You can list your side projects or open source libraries in this
