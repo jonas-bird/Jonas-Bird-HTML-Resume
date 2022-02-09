@@ -1,6 +1,6 @@
 # Jonas Bird - Resume
 
-**[HTML version of my resume](https://jonas-bird.github.io/Jonas-Bird-HTML-Resume/)*
+*[HTML version of my resume](https://jonas-bird.github.io/Jonas-Bird-HTML-Resume/)*
 
 ## System Administrator & IT Automation Practitioner 
 
