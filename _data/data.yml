@@ -48,6 +48,14 @@ career-profile:
       Tech support specialist and project/program manager. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions. Received Google IT Support Professional Certificate in Sept. 2020, covering troubleshooting, networking, operating systems, systems administration, and security, and Google IT Automation with Python in Dec. 2021, covering cloud and automation technologies. Currently looking for new career opportunities while sharpening my coding skills.
 
 education:
+    - degree: Intro to Programming for Accenture
+      university: Udacity
+      time: 2022
+      details: |
+        Completed certification covering:
+          - HTML
+          - CSS
+          - JavaScript          
     - degree: Google IT Automation with Python Certification
       university: Coursera
       time: 2021
@@ -69,14 +77,7 @@ education:
           - Networking
           - Operating systems
           - System administration
-          - IT infrastructure
-    - degree: Intro to Programming for Accenture
-      university: Udacity
-      time: 2022
-      details: |
-        Completed certification covering:
-          - HTML
-          - CSS
+          - IT infrastructure   
     - degree: Courses in Electronics and CS
       university: Community College of Allegheny County
       details: |
