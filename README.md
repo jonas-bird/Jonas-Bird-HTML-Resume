@@ -16,12 +16,9 @@ Tech support specialist and project/program manager. Adept at managing difficult
 
 ## Experience 
 
-+ **Tech Support Consultant** • Various Clients *Brooklyn, NY • Sept. 2018 – Present*
++ **Tech Support Consultant** • Various Clients *Brooklyn, NY • Sept. 2016 – Present*
     + Repair and configure client desktops, laptops, and mobile devices, including Windows, Mac OS X, iOS, and Android operating systems.
     + Perform repairs on consumer electronics, including televisions, video game systems, stereos, and sound equipment.  
-+ **Customer Support Manager** • Gamble Hollow Farm *Masontown, WV • Jan. 2016 – Aug. 2018*
-  + Worked with regional clients to deliver local organic produce in a responsive, efficient manner matching their business needs.
-  + Managed technical infrastructure, farm inventory, and supplier relationships. Developed / executed plans and performed equipment maintenance to maximize uptime during growing and harvest seasons.
 + **Systems Analyst & E-Commerce Manager** • KLAWTEX *Brooklyn, NY • Aug. 2012 – Nov. 2015 (Closed to public in Sept. 2015)*
   + Managed all information systems and security. Provided 360-degree technical support and managed upgrades and improvements to the KLAWTEX website/e-commerce system, increasing uptime by over 400%, sales by 40%, and page views by more than 300% per year.
   + Directed back-end development and production for launch of new web store/e-commerce system. Managed interactive team to build apparel taxonomies and web database spanning hundreds of items variations. Supervised and maintained apparel database via Drupal CMS.
@@ -89,11 +86,11 @@ Tech support specialist and project/program manager. Adept at managing difficult
 + writing
 
 **Currently Studying** 
-+ C
++ Clojure/Java
 + Data-structures
 + Django web framework (Python) 
 + JavaScript/Front End Web design
-+ Containers
++ Docker/Containers
 
 ## Education / Certifications 
 

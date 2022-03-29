@@ -55,7 +55,8 @@ education:
         Completed certification covering:
           - HTML
           - CSS
-          - JavaScript          
+          - JavaScript
+          - Python
     - degree: Google IT Automation with Python Certification
       university: Coursera
       time: 2021
@@ -89,23 +90,17 @@ education:
 
 experiences:
     - role: Tech Support Consultant
-      time: 2018 - Present
+      time: Sept. 2016 - Present
       company: Various clients
       details: |
-        Repaired and configured computer systems and small networks as well as performed consumer A/V installations.
+        Repaired and configured computer systems, mobile/IOT devices and small networks as well as performed consumer A/V installations.
         Provided support for:
           - OSX
           - Windows 7/10
           - iOS
           - Android
-    - role: Customer Support Manager
-      time: 2016 - 2018
-      company: Gamble Hollow Farm, WV
-      details: |
-        Worked with regional clients to deliver local organic produce in a responsive, efficient manner matching their business needs.
-        Managed technical infrastructure, farm inventory, and supplier relationships. Developed / executed plans and performed equipment maintenance to maximize uptime during growing and harvest seasons.
     - role: Systems Analyst &amp E-Commerce Manager
-      time: 2012 - 2016
+      time: Aug. 2012 - Nov. 2015
       company: KLAWTEX, NY
       details: |
         • Managed all information systems and security. Provided 360-degree technical support and managed upgrades and improvements to the KLAWTEX website/e-commerce system, increasing uptime by over 400%, sales by 40%, and page views by more than 300% per year.
@@ -113,7 +108,7 @@ experiences:
         • Managed customer orders, inventory, supplies, and vendors. Assisted fashion designers, editors, and stylists at Vogue, Elle, and Interview Magazine with couture inquiries and rentals. Developed and implemented a new rental tracking system.
         • Interviewed candidates for full-time and internship positions Provided orientation, technical setup, and web shop training for new hires.
     - role: Tech Support Consultant
-      time: 2009 - 2012
+      time: Sept. 2009 - Jul. 2012
       company: University of Pittsburgh / Pancoast Staffing, Pittsburgh PA
       details: |
         - Software Tester & Database Administrator — U. of Pittsburgh Medical Center
@@ -123,25 +118,25 @@ experiences:
         - Technical Coordinator of Client Services — Chemistry Interactive
         - Technical Support & Hardware Rollout Assistant — Art Institute of Pittsburgh
     - role: Lead Electronics Technician
-      time: 2006 - 2009
+      time: Mar. 2006 - Aug. 2009
       company: Bill Dixon TV, Verona PA
       details: |
         • Performed component-level electronics repairs in-house and on location. Led warranty repairs and customer support for Sony, Panasonic, and RCA.
         • Managed in-house systems administration, customer accounts, and shop procedures. Trained line employees in electronics repair and company policies.
     - role: Technology Support Specialist &amp Education Manager
-      time: 2004 - 2006
+      time: Dec. 2004 - Feb. 2006
       company: Y.M.C.A of Pittsburgh, Pittsburgh PA
       details: |
         • Assistant manager of Y-Tech community technology program. Taught courses on ICDL certification exam prep, tech fundamentals, and basic computer skills.
         • Managed Windows and Linux system installation and disk imaging. Upgraded government-surplus computers for community use.
     - role: Sound and Electronics Technician
-      time: 2003 - 2004
+      time: Aug. 2003 - Dec. 2004
       company: The Eye Concert Venue and Lounge, Pittsburgh PA
       details: |
         • Managed technical support, sound, audiovisual equipment, and electronics displays for art shows and concerts.
         • Managed ticketing system, rolled out a new customer tracking database, and oversaw customer-facing staff at art shows, concerts, and in daily work
     - role: Customer Support Technician
-      time: 2003 - 2004
+      time: Aug 2003 - Sept. 2004
       company: Public Interest Communications, Pittsburgh PA
       details: |
         • Raised funds for non-profit organizations (e.g. Metropolitan Opera, Habitat for Humanity, World Wildlife Fund), managed customer records in UNIX system, and provided account customer service.
@@ -216,6 +211,9 @@ skills:
 
       - name: Technical Support
         # level: 100%
+
+      - name: Electronics Repair
+        # level: 100
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
