@@ -26,11 +26,14 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: English
-        level: Native
+    Skills:
+      - idiom: Python
+      - idiom: JavaScript
+      - idiom: Shell Scripting
+      - idiom: Linux
+      - idiom: Cloud Computing
+      - idiom: IT Automation
 
-  
 
     interests:
       - item: History
@@ -103,10 +106,10 @@ experiences:
       time: Aug. 2012 - Nov. 2015
       company: KLAWTEX, NY
       details: |
-        • Managed all information systems and security. Provided 360-degree technical support and managed upgrades and improvements to the KLAWTEX website/e-commerce system, increasing uptime by over 400%, sales by 40%, and page views by more than 300% per year.
-        • Directed back-end development and production for launch of new web store/e-commerce system. Managed interactive team to build apparel taxonomies and web database spanning hundreds of items variations. Supervised and maintained apparel database via Drupal CMS.
-        • Managed customer orders, inventory, supplies, and vendors. Assisted fashion designers, editors, and stylists at Vogue, Elle, and Interview Magazine with couture inquiries and rentals. Developed and implemented a new rental tracking system.
-        • Interviewed candidates for full-time and internship positions Provided orientation, technical setup, and web shop training for new hires.
+        - Managed all information systems and security. Provided 360-degree technical support and managed upgrades and improvements to the KLAWTEX website/e-commerce system, increasing uptime by over 400%, sales by 40%, and page views by more than 300% per year.
+        - Directed back-end development and production for launch of new web store/e-commerce system. Managed interactive team to build apparel taxonomies and web database spanning hundreds of items variations. Supervised and maintained apparel database via Drupal CMS.
+        - Managed customer orders, inventory, supplies, and vendors. Assisted fashion designers, editors, and stylists at Vogue, Elle, and Interview Magazine with couture inquiries and rentals. Developed and implemented a new rental tracking system.
+        - Interviewed candidates for full-time and internship positions Provided orientation, technical setup, and web shop training for new hires.
     - role: Tech Support Consultant
       time: Sept. 2009 - Jul. 2012
       company: University of Pittsburgh / Pancoast Staffing, Pittsburgh PA
@@ -121,25 +124,25 @@ experiences:
       time: Mar. 2006 - Aug. 2009
       company: Bill Dixon TV, Verona PA
       details: |
-        • Performed component-level electronics repairs in-house and on location. Led warranty repairs and customer support for Sony, Panasonic, and RCA.
-        • Managed in-house systems administration, customer accounts, and shop procedures. Trained line employees in electronics repair and company policies.
+        - Performed component-level electronics repairs in-house and on location. Led warranty repairs and customer support for Sony, Panasonic, and RCA.
+        - Managed in-house systems administration, customer accounts, and shop procedures. Trained line employees in electronics repair and company policies.
     - role: Technology Support Specialist &amp Education Manager
       time: Dec. 2004 - Feb. 2006
       company: Y.M.C.A of Pittsburgh, Pittsburgh PA
       details: |
-        • Assistant manager of Y-Tech community technology program. Taught courses on ICDL certification exam prep, tech fundamentals, and basic computer skills.
-        • Managed Windows and Linux system installation and disk imaging. Upgraded government-surplus computers for community use.
+        - Assistant manager of Y-Tech community technology program. Taught courses on ICDL certification exam prep, tech fundamentals, and basic computer skills.
+        - Managed Windows and Linux system installation and disk imaging. Upgraded government-surplus computers for community use.
     - role: Sound and Electronics Technician
       time: Aug. 2003 - Dec. 2004
       company: The Eye Concert Venue and Lounge, Pittsburgh PA
       details: |
-        • Managed technical support, sound, audiovisual equipment, and electronics displays for art shows and concerts.
-        • Managed ticketing system, rolled out a new customer tracking database, and oversaw customer-facing staff at art shows, concerts, and in daily work
+        - Managed technical support, sound, audiovisual equipment, and electronics displays for art shows and concerts.
+        - Managed ticketing system, rolled out a new customer tracking database, and oversaw customer-facing staff at art shows, concerts, and in daily work
     - role: Customer Support Technician
       time: Aug 2003 - Sept. 2004
       company: Public Interest Communications, Pittsburgh PA
       details: |
-        • Raised funds for non-profit organizations (e.g. Metropolitan Opera, Habitat for Humanity, World Wildlife Fund), managed customer records in UNIX system, and provided account customer service.
+        - Raised funds for non-profit organizations (e.g. Metropolitan Opera, Habitat for Humanity, World Wildlife Fund), managed customer records in UNIX system, and provided account customer service.
 
 projects:
 #    title: Projects
