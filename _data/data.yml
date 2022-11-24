@@ -29,6 +29,7 @@ sidebar:
 
     languages:
       - idiom: Python
+      - idiom: Networking
       - idiom: JavaScript
       - idiom: Shell Scripting
       - idiom: Linux
@@ -37,10 +38,10 @@ sidebar:
 
 
     interests:
-      - item: Natural Language Processing
+      - item: Privacy and security
         link:
 
-      - item: Functional Programming
+      - item: Infrastructure as code
         link:
 
       - item: Electronics
@@ -49,9 +50,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Tech support specialist and project/program manager. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions. Received Google IT Support Professional Certificate in Sept. 2020, covering troubleshooting, networking, operating systems, systems administration, and security, and Google IT Automation with Python in Dec. 2021, covering cloud and automation technologies. Currently looking for new career opportunities while sharpening my coding skills.
+       Network Engineer and IT support specialist. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions.  Received Google IT Support Professional Certificate in Sept. 2020, Google IT Automation with Python in Dec. 2021, and became certified under the CCNA program in Nov. 2022. I have a strong array of network, Linux, programming, and Cloud, skills that I am ready to apply to new challenges
 
 education:
+    - degree: CCNA Certified
+      university:
+      time: 2022
+      details: |
+
     - degree: Intro to Programming for Accenture
       university: Udacity
       time: 2022
