@@ -12,7 +12,7 @@ Contact Info
 
 ## Summary 
 
-Tech support specialist and project/program manager. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions. Received Google IT Support Professional Certificate in Sept. 2020, covering troubleshooting, networking, operating systems, systems administration, and security, and Google IT Automation with Python in Dec. 2021, covering cloud and automation technologies. Currently looking for new career opportunities while sharpening my coding skills.
+Network Engineer and IT support specialist. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions.  Received Google IT Support Professional Certificate in Sept. 2020, Google IT Automation with Python in Dec. 2021, and became certified under the CCNA program in Nov. 2022. I have a strong array of network, Linux, programming, and Cloud, skills that I am ready to apply to new challenges
 
 ## Experience 
 
@@ -50,9 +50,10 @@ Tech support specialist and project/program manager. Adept at managing difficult
 
 **IT\Networking** 
 + System Administration 
-+ Linux 
-+ Networking 
-+ Computer Repair 
++ Linux   
++ Networking   
++ OSPF  
++ TCP/IP  
 + OS Installation and Configuration 
 + Cloud Computing 
 + Automation 
@@ -85,15 +86,14 @@ Tech support specialist and project/program manager. Adept at managing difficult
 + Problem solving
 + writing
 
-**Currently Studying** 
-+ Clojure/Java
-+ Data-structures
-+ Django web framework (Python) 
-+ JavaScript/Front End Web design
-+ Docker/Containers
+**Currently Studying**   
++ Java/Data-structures  
++ Python   
++ Docker/Containers  
 
 ## Education / Certifications 
 
+*Cisco Certified Network Associate (CCNA)* - Cisco Systems, Inc Nov. 2022 to Nov. 2025  
 *Google IT Automation with Python* - Coursera 2021  
 *Google IT Support Professional* - Coursera 2020  
 *Udacity Introduction to Programming* - Udacity 2022  
