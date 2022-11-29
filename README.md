@@ -2,7 +2,7 @@
 
 *[HTML version of my resume](https://jonas-bird.github.io/Jonas-Bird-HTML-Resume/)*
 
-## System Administrator & IT Automation Practitioner 
+## Network Engineer & IT Automation Practitioner 
 
 Contact Info
 + 1342 DeKalb Ave Apt 4A Brooklyn NY, 11221
@@ -13,6 +13,15 @@ Contact Info
 ## Summary 
 
 Network Engineer and IT support specialist. Adept at managing difficult projects, creating new business systems, and delivering corporate IT solutions.  Received Google IT Support Professional Certificate in Sept. 2020, Google IT Automation with Python in Dec. 2021, and became certified under the CCNA program in Nov. 2022. I have a strong array of network, Linux, programming, and Cloud, skills that I am ready to apply to new challenges
+
+## Certifications / Education 
+
++ *Cisco Certified Network Associate (CCNA)* - Cisco Systems, Inc Nov. 2022 - Nov. 2025  
++ *Google IT Automation with Python* - Coursera 2021  
++ *Google IT Support Professional* - Coursera 2020  
++ *Udacity Introduction to Programming* - Udacity 2022  
++ *Coursework in Computer & Information Technology* - Community College of Allegheny County, Pittsburgh, PA  
++ *Classes in Philosophy, Logic, & Computation* - Carnegie Mellon University Pittsburgh, PA  
 
 ## Experience 
 
@@ -48,7 +57,7 @@ Network Engineer and IT support specialist. Adept at managing difficult projects
 
 ## Skills
 
-**IT\Networking** 
+### **IT\Networking** 
 + System Administration 
 + Linux   
 + Networking   
@@ -62,14 +71,14 @@ Network Engineer and IT support specialist. Adept at managing difficult projects
 + Git/Github Version control
 + Computer Security
     
-**Programming Languages** 
+### **Programming Languages** 
 + HTML
 + CSS
 + Python 
 + Javascript 
 + Shell/Bash 
     
-**Electronics** 
+### **Electronics** 
 + Soldering 
 + Board Level repair 
 + component level repair 
@@ -77,7 +86,7 @@ Network Engineer and IT support specialist. Adept at managing difficult projects
 + Test Equipment 
 + trouble-shooting
 
-**General Skills** 
+### **General Skills** 
 + Customer support 
 + communication 
 + shop procedures 
@@ -86,27 +95,12 @@ Network Engineer and IT support specialist. Adept at managing difficult projects
 + Problem solving
 + writing
 
-**Currently Studying**   
+## **Currently Studying**   
 + Java/Data-structures  
 + Python   
 + Docker/Containers  
 
-## Education / Certifications 
-
-*Cisco Certified Network Associate (CCNA)* - Cisco Systems, Inc Nov. 2022 to Nov. 2025  
-*Google IT Automation with Python* - Coursera 2021  
-*Google IT Support Professional* - Coursera 2020  
-*Udacity Introduction to Programming* - Udacity 2022  
-*Python For Everybody* - py4e.com 2022  
-*Coursework in Computer & Information Technology* - Community College of Allegheny County, Pittsburgh, PA  
-*Classes in Philosophy, Logic, & Computation* - Carnegie Mellon University Pittsburgh, PA  
-
-### Working on 
-
-*Certification in Responsive Web Design* - FreeCodeCamp.com  
-*Full Stack Developer Curriculum* - TheOdinProject.com  
-
-### Google Skill Badges
+## Google Skill Badges
 
 *[Google Cloud Essentials](https://www.cloudskillsboost.google/public_profiles/27ba7c49-384b-4468-9c83-1c29352645ea)*
     
